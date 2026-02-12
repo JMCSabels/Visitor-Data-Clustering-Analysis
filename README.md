@@ -1,0 +1,1 @@
+To explore behavioral patterns of park visitors, I computed a distance matrix based on dissimilarities in check-in sequences. Using this matrix, I visualized correlations between visitors with a scatterplot matrix, highlighting similarities and differences in their movement patterns.
